@@ -2,7 +2,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/GuilhermeGTM/ProjetoFilmes/blob/main/LICENSE) 
 
 # Sobre o projeto
-Foi feita toda parte lógica de paginação
+Controle Bancario, cria conta, transfere, lista...
 
 ## Layout web
 ![Web 1](https://github.com/GuilhermeGTM/Controle-Bancario/blob/main/GitHubMidia/1.png)
